@@ -1,7 +1,7 @@
 # Dragon Age Compendium
 Refactoring the Dragon Age: Origins Toolset SQL database for use without game files, for the purpose of accessing dialogue and codex text
 
-![Flemeth_DB](screenshots/char_dialogue_flemeth2)
+![Flemeth_DB]('screenshots/char_dialogue_flemeth2')
 
 I spent many, many hours scouring the wiki, old forums, random tumblr posts, StackOverflow... all to understand how the Dragon Age: Origins Toolset database and GUI works and how to get the text from the encoded game files into a format that is not only easy to manipulate (because if that was all I cared about I would just use the Toolset or write SQL queries until my eyes hurt - which, funnily enough, was the only way I could understand where anything was so joke's on me) but also easily available to people across platforms (since the Toolset only works if you have DA:O installed) and operating systems (although Windows is not necessarily the only SQL-friendly machine anymore, with the database hacked into two excel files, it's no longer really necessary).
 
