@@ -5,6 +5,14 @@ I spent many, many hours scouring the wiki, old forums, random tumblr posts, Sta
 
 In the future, I plan to do something similar for DA2 and DA:I, but for now, it's just Origins.
 
+## How to Use
+
+### Example Notebooks
+
+#### Character Dialogue
+
+
+
 ## History
 
 I spent a lot of time on this, but I don't expect that once this is made public to get credit every single time someone uses the files I have provided here. There was a lot of unknowns when I first started this -- I didn't understand the database architecture, I don't really know SQL, I didn't understand the game file organization (and I didn't know I didn't really need to) -- and I went down a lot of wrong paths at first as I tried to get my bearings. In the end, two of the resources I found most helpful in bridging some of my understandings were [the wiki]() and [Sapphimod's tutorials](). Neither had complete information, but they would occassionally have just the information I needed when I encountered a DA:O database-specific problem.
