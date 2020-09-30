@@ -1,21 +1,40 @@
 # Dragon Age Compendium
 Refactoring the Dragon Age: Origins Toolset SQL database for use without game files, for the purpose of accessing dialogue and codex text
 
+![Flemeth_DB](https://octodex.github.com/images/yaktocat.png)
+
 I spent many, many hours scouring the wiki, old forums, random tumblr posts, StackOverflow... all to understand how the Dragon Age: Origins Toolset database and GUI works and how to get the text from the encoded game files into a format that is not only easy to manipulate (because if that was all I cared about I would just use the Toolset or write SQL queries until my eyes hurt - which, funnily enough, was the only way I could understand where anything was so joke's on me) but also easily available to people across platforms (since the Toolset only works if you have DA:O installed) and operating systems (although Windows is not necessarily the only SQL-friendly machine anymore, with the database hacked into two excel files, it's no longer really necessary).
 
 In the future, I plan to do something similar for DA2 and DA:I, but for now, it's just Origins.
 
 ## How to Use
 
+There are csv and rawtext files of the dialogue and codices in the `data` folder. These can be downloaded and manipulated however you'd like.
+
+There are also some Python functions that make searching for keywords or returning character dialogue easy. Download the repository as a zipfile and extract it to a folder on your computer (such as 'Documents').
+
+If you haven't used Python before, that's ok! There are directions below on how to install and get going with Python using Anaconda.
+
 ### Installing Python
+
+* [Download Anaconda](https://www.anaconda.com/products/individual) and follow installation direction
+* Open the Terminal or Command Prompt
+
+
+* Navigate to the folder where you saved the dragonage_compendium. Create the conda environment by following these steps (you only need to do this the first time):
+  - Inside of this folder there is a file called `dac.yml` which contains information on the Python version and packages needed to use the Compendium's functions. 
+  - To create the conda environment from the `yml` file, type this into the terminal: `a` and press `Enter`
+* To activate the conda environment, type `b` and press `Enter`
+  - To double check you're using the right environment `dac` should be returned if you enter this command: `conda --info envs` and there should be a `*` by the environment name
+* That's it!
 
 ### Jupyter Notebook
 
+Jupyter Notebook 
+
 ### Example Notebooks
-
-#### Character Dialogue
-
-### Executable File
+  - [CharacterDialogue Notebook]() returns all the dialogue for a given character name.
+  - [KeywordSearch Notebook]() returns all lines containing a given keyword
 
 ## History
 
