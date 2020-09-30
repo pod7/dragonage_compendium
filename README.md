@@ -28,9 +28,9 @@ In the future, I plan to do something similar for DA2 and DA:I, essentially crea
 
 ## How to Use
 
-There are csv and raw text files of the dialogue and codices in the `data` folder. These can be downloaded and manipulated however you'd like.
+**There are csv and raw text files of the dialogue and codices in the `data` folder. These can be downloaded and manipulated however you'd like.**
 
-There are also some Python functions that make searching for keywords or returning character dialogue easy. Download the repository as a zipfile and extract it to a folder on your computer (such as 'Documents').
+There are also some Python functions that make searching for keywords or returning character dialogue easy. These are what I like to use. Download the repository as a zipfile and extract it to a folder on your computer (such as 'Documents'). 
 
 If you haven't used Python before, that's ok! There are directions below on how to install and get going with Python using Anaconda.
 
