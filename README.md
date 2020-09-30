@@ -55,6 +55,7 @@ Run the command `jupyter notebook` from the `dragonage_compendium` folder and na
   - [CharacterDialogue Notebook]() returns all the dialogue for a given character name.
 ![Flemeth_DB](https://github.com/pod7/dragonage_compendium/blob/master/screenshots/char_dialogue_flemeth2.PNG)
   - [KeywordSearch Notebook]() returns all lines containing a given keyword
+![Search](https://github.com/pod7/dragonage_compendium/blob/master/screenshots/keyword_search.PNG)
 
 
 
