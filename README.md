@@ -7,11 +7,15 @@ In the future, I plan to do something similar for DA2 and DA:I, but for now, it'
 
 ## How to Use
 
+### Installing Python
+
+### Jupyter Notebook
+
 ### Example Notebooks
 
 #### Character Dialogue
 
-
+### Executable File
 
 ## History
 
