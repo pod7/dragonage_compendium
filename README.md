@@ -1,7 +1,7 @@
 # Dragon Age Compendium
 Refactoring the Dragon Age: Origins Toolset SQL database for use without game files, for the purpose of accessing dialogue and codex text
 
-### Codex entries
+### Codex entries/Dialogue
 
 ![codex](https://github.com/pod7/dragonage_compendium/blob/master/screenshots/clean_codex.PNG)
 
