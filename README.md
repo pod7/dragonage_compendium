@@ -25,15 +25,6 @@ They're witches! She all but said so!
 
 In the future, I plan to do something similar for DA2 and DA:I, essentially creating a searchable corpus that spans across the games, but for now it's just Origins. 
 
-## Notes/contact info
-
-I spent *a lot* of time on this. There were a lot of unknowns when I first started and I went down a lot of wrong paths as I tried to get my bearings. In the end, two of the resources I found most helpful in bridging gaps in my knowledge were [the wiki](http://www.datoolset.net/wiki/Main_Page) and [Sapphimod's tutorials](https://sapphimods.me/tutorials/dialogue-modding-pt-1/). Neither had complete information, but they would occassionally have just what I needed when I encountered a DA:O database-specific problem. If you have the toolset already and you're interested in working with the database directly, it's actually not very difficult to use, and I have left an html notebook of what I learned [here](https://github.com/pod7/dragonage_compendium/blob/master/notebooks/origins/origins_exploration_html.html). 
-
-
-Weird to use tumblr as my calling card, but it's Dragon Age, so feel free to reach out: http://planesofduality.tumblr.com/
-
-Also, twitter: https://twitter.com/planesofduality
-
 ## How to Use
 
 **There are csv and raw text files of the dialogue and codices in the `data` folder. These can be downloaded and manipulated however you'd like.**
@@ -65,6 +56,13 @@ Run the command `jupyter notebook` from the `dragonage_compendium` folder and na
   - [KeywordSearch Notebook]() returns all lines containing a given keyword
 ![Search](https://github.com/pod7/dragonage_compendium/blob/master/screenshots/keyword_search.PNG)
 
+## Notes/contact info
 
+I spent *a lot* of time on this. There were a lot of unknowns when I first started and I went down a lot of wrong paths as I tried to get my bearings. In the end, two of the resources I found most helpful in bridging gaps in my knowledge were [the wiki](http://www.datoolset.net/wiki/Main_Page) and [Sapphimod's tutorials](https://sapphimods.me/tutorials/dialogue-modding-pt-1/). Neither had complete information, but they would occassionally have just what I needed when I encountered a DA:O database-specific problem. If you have the toolset already and you're interested in working with the database directly, it's actually not very difficult to use, and I have left an html notebook of what I learned [here](https://github.com/pod7/dragonage_compendium/blob/master/notebooks/origins/origins_exploration_html.html). 
+
+
+Weird to use tumblr as my calling card, but it's Dragon Age, so feel free to reach out: http://planesofduality.tumblr.com/
+
+Also, twitter: https://twitter.com/planesofduality
 
 
