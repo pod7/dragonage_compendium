@@ -1,6 +1,23 @@
 # Dragon Age Compendium
 Refactoring the Dragon Age: Origins Toolset SQL database for use without game files, for the purpose of accessing dialogue and codex text
 
+![codex](https://github.com/pod7/dragonage_compendium/blob/master/screenshots/clean_codex.PNG)
+
+```
+Duncan (a bit concerned, there shouldn't be a problem):
+Did you find the archive?
+
+Alistair (exasperated, but trying to be cool about it all):
+Yes, but the scrolls aren't there. We encountered a creepy woman named Morrigan who says her mother has them, but I don't trust her.
+
+Duncan (curious, asking for more information from his soldiers):
+What are she and her mother doing in the Wilds? Are they Chasind?
+
+Daveth (said as if anyone should know that witches are terrible, terrible people):
+They're witches! She all but said so!
+
+```
+
 ![Flemeth_DB](https://github.com/pod7/dragonage_compendium/blob/master/screenshots/char_dialogue_flemeth2.PNG)
 
 I spent many, many hours scouring the wiki, old forums, random tumblr posts, StackOverflow... all to understand how the Dragon Age: Origins Toolset database and GUI works and how to get the text from the encoded game files into a format that is not only easy to manipulate (because if that was all I cared about I would just use the Toolset or write SQL queries until my eyes hurt - which, funnily enough, was the only way I could understand where anything was so joke's on me) but also easily available to people across platforms (since the Toolset only works if you have DA:O installed) and operating systems (although Windows is not necessarily the only SQL-friendly machine anymore, with the database hacked into two excel files, it's no longer really necessary).
