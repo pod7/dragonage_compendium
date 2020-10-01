@@ -50,7 +50,7 @@ If you haven't used Python before, that's ok! There are directions below on how 
   - Inside of this folder there is a file called `dac.yml` which contains information on the Python version and packages needed to use the Compendium's functions. 
   - To create the conda environment from the `yml` file, type this into the terminal: `conda env create -f dac.yml` and press `Enter`
 * To activate the conda environment, type `conda activate da_sql` and press `Enter`
-  - To double check you're using the right environment `dac` should be returned if you enter this command: `conda --info envs` and there should be a `*` by the environment name, `da_sql`
+  - To double check you're using the right environment enter this command: `conda --info envs` and there should be a `*` by the environment name, `da_sql`
 * That's it!
 
 ## Jupyter Notebook
