@@ -58,10 +58,11 @@ If you haven't used Python before, that's ok! There are directions below on how 
 Run the command `jupyter notebook` from the `dragonage_compendium` folder and navigate to the `notebook` folder to directly interact with these files. 
 
 ### Example Notebooks
-  - [CharacterDialogue Notebook]() returns all the dialogue for a given character name.
+  - [CharacterDialogue Notebook](https://github.com/pod7/dragonage_compendium/tree/master/notebooks/origins) returns all the dialogue for a given character name.
 ![Flemeth_DB](https://github.com/pod7/dragonage_compendium/blob/master/screenshots/char_dialogue_flemeth2.PNG)
-  - [KeywordSearch Notebook]() returns all lines containing a given keyword
+  - [KeywordSearch Notebook](https://github.com/pod7/dragonage_compendium/tree/master/notebooks/origins) returns all lines containing a given keyword
 ![Search](https://github.com/pod7/dragonage_compendium/blob/master/screenshots/keyword_search.PNG)
+  - [Overview of the Compendium](https://github.com/pod7/dragonage_compendium/tree/master/notebooks/origins): an introduction to the compendium and it's present functionality. 
 
 ## Notes/contact info
 
