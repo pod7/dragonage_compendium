@@ -1,6 +1,12 @@
 # Dragon Age Compendium
 Refactoring the Dragon Age: Origins Toolset SQL database for use without game files, for the purpose of accessing dialogue and codex text
 
+### What's in here?
+- All dialogue for all characters
+- Notes from the writers for the voice actors, which provide additional insight into character background and motivation
+- Text relating to the characters, such as their ages, flaws, and background
+- All codices, including all the options for the companion codex entries 
+
 ### Codex entries/Dialogue
 
 ![codex](https://github.com/pod7/dragonage_compendium/blob/master/screenshots/clean_codex.PNG)
@@ -22,8 +28,7 @@ They're witches! She all but said so!
 
 ```
 
-
-In the future, I plan to do something similar for DA2 and DA:I, essentially creating a searchable corpus that spans across the games, but for now it's just Origins. 
+I am currently working on something similar for DA2 and DA:I, essentially creating a searchable corpus that spans across the games, but for now it's just Origins. Any updates will be posted here.
 
 ## How to Use
 
