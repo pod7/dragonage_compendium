@@ -4,7 +4,7 @@ Refactoring the Dragon Age: Origins Toolset SQL database for use without game fi
 ### What's in here?
 - All dialogue for all characters
 - Notes from the writers for the voice actors, which provide additional insight into character background and motivation
-- Text relating to the characters, such as their ages, flaws, and background
+- Developer notes relating to the characters, such as their ages, flaws, and background
 - All codices, including all the options for the companion codex entries 
 
 ### Codex entries/Dialogue
