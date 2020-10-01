@@ -58,7 +58,9 @@ Run the command `jupyter notebook` from the `dragonage_compendium` folder and na
 
 ## Notes/contact info
 
-I spent *a lot* of time on this. There were a lot of unknowns when I first started and I went down a lot of wrong paths as I tried to get my bearings. In the end, two of the resources I found most helpful in bridging gaps in my knowledge were [the wiki](http://www.datoolset.net/wiki/Main_Page) and [Sapphimod's tutorials](https://sapphimods.me/tutorials/dialogue-modding-pt-1/). Neither had complete information, but they would occassionally have just what I needed when I encountered a DA:O database-specific problem. If you have the toolset already and you're interested in working with the database directly, it's actually not very difficult to use, and I have left an html notebook of what I learned [here](https://github.com/pod7/dragonage_compendium/blob/master/notebooks/origins/origins_exploration_html.html). 
+I spent *a lot* of time on this. There were a lot of unknowns when I first started and I went down a lot of wrong paths as I tried to get my bearings. In the end, two of the resources I found most helpful in bridging gaps in my knowledge were [the wiki](http://www.datoolset.net/wiki/Main_Page) and [Sapphimod's tutorials](https://sapphimods.me/tutorials/dialogue-modding-pt-1/). Neither had complete information, but they would occassionally have just what I needed when I encountered a DA:O database-specific problem. Additional shout out to Microsoft for keeping information for the 2005 SQL server around on its website *and* for noting where older version of the server differed from the most recent information. I never thought I'd say this, but none of this have been possible without Microsoft. 
+
+If you have the toolset already and you're interested in working with the database directly, it's actually not very difficult to use, and I have left an html notebook of what I learned [here](https://github.com/pod7/dragonage_compendium/blob/master/notebooks/origins/origins_exploration_html.html). 
 
 
 Weird to use tumblr as my calling card, but it's Dragon Age, so feel free to reach out: http://planesofduality.tumblr.com/
