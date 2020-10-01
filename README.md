@@ -63,6 +63,10 @@ Run the command `jupyter notebook` from the `dragonage_compendium` folder and na
   - [KeywordSearch Notebook](https://github.com/pod7/dragonage_compendium/tree/master/notebooks/origins) returns all lines containing a given keyword
 ![Search](https://github.com/pod7/dragonage_compendium/blob/master/screenshots/keyword_search.PNG)
   - [Overview of the Compendium](https://github.com/pod7/dragonage_compendium/tree/master/notebooks/origins): an introduction to the compendium and it's present functionality. 
+  
+  ![comp_ex1]()
+  
+  ![comp_ex2]()
 
 ## Notes/contact info
 
