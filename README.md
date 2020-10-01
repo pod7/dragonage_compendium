@@ -50,7 +50,7 @@ If you haven't used Python before, that's ok! There are directions below on how 
   - Inside of this folder there is a file called `dac.yml` which contains information on the Python version and packages needed to use the Compendium's functions. 
   - To create the conda environment from the `yml` file, type this into the terminal: `conda env create -f dac.yml` and press `Enter`
 * To activate the conda environment, type `conda activate da_sql` and press `Enter`
-  - To double check you're using the right environment `dac` should be returned if you enter this command: `conda --info envs` and there should be a `*` by the environment name, `da_sql`
+  - To double check you're using the right environment enter this command: `conda --info envs` and there should be a `*` by the environment name, `da_sql`
 * That's it!
 
 ## Jupyter Notebook
@@ -58,10 +58,15 @@ If you haven't used Python before, that's ok! There are directions below on how 
 Run the command `jupyter notebook` from the `dragonage_compendium` folder and navigate to the `notebook` folder to directly interact with these files. 
 
 ### Example Notebooks
-  - [CharacterDialogue Notebook]() returns all the dialogue for a given character name.
+  - [CharacterDialogue Notebook](https://github.com/pod7/dragonage_compendium/tree/master/notebooks/origins) returns all the dialogue for a given character name.
 ![Flemeth_DB](https://github.com/pod7/dragonage_compendium/blob/master/screenshots/char_dialogue_flemeth2.PNG)
-  - [KeywordSearch Notebook]() returns all lines containing a given keyword
+  - [KeywordSearch Notebook](https://github.com/pod7/dragonage_compendium/tree/master/notebooks/origins) returns all lines containing a given keyword
 ![Search](https://github.com/pod7/dragonage_compendium/blob/master/screenshots/keyword_search.PNG)
+  - [Overview of the Compendium](https://github.com/pod7/dragonage_compendium/tree/master/notebooks/origins): an introduction to the compendium and it's present functionality. 
+  
+  ![comp_ex1]()
+  
+  ![comp_ex2]()
 
 ## Notes/contact info
 
