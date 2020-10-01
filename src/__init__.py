@@ -1,0 +1,1 @@
+from .compendium import DragonAgeCompendium

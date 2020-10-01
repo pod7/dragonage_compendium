@@ -296,7 +296,7 @@ dash ground cardamom seed
 A sermon on integrity.
 
 
-The weakness of mortal will is the great failing of all the Maker’s children. We trade our honor as if it were the cheapest of currency. We do not understand what integrity is or what it is truly worth. From this ignorance, original sin was born.
+The weakness of mortal will is the great failing of all the Makerï¿½s children. We trade our honor as if it were the cheapest of currency. We do not understand what integrity is or what it is truly worth. From this ignorance, original sin was born.
 
 At some time, each of us has thought, "What does it matter if I keep hold of my integrity? I am but one mortal. I am powerless." How blind we all are! The virtue of a single slave destroyed the Tevinter Imperium. The dishonor of one man drove the Maker from our sight. I tell you truly, nothing but the integrity of our hearts will win the love of the Maker back to us. It is all the power we shall ever possess to change this world for good or for ill.
 
@@ -371,31 +371,31 @@ On Alistair.
 "You know, one good thing about the Blight is how it brings people together."
 
 Alistair was a novice templar when Duncan recruited him into the Grey Wardens--or rescued him, as Alistair would say.
-	Codex type: Characters
+	
 
 His mother was a serving girl, who died when Alistair was very young. He was raised by Eamon Guerrin, arl of Redcliffe for a time.
-	Codex type: Characters
+	
 
 The arl's wife, Isolde, suspected the reason her husband took an interest in the welfare of a servant's child was that Alistair was Eamon's son. She insisted that the boy be sent away to the Chantry.
-	Codex type: Characters
+	
 
 Isolde's suspicions were unfounded, however. Alistair was not Eamon's son, but King Maric's. Eamon sheltered the boy to hide his existence from Queen Rowan, Eamon's sister.
-	Codex type: Characters
+	
 
 With a great deal of assistance, Alistair was recognized by the Landsmeet as Maric's son and granted his father's throne.
-	Codex type: Characters
+	
 
 Unable to accept the decision to spare Loghain's life, Alistair left--and has not been seen since.
-	Codex type: Characters
+	
 
 To prevent further civil war, he was executed at the Landsmeet on the orders of Queen Anora, ending the Theirin line.
-	Codex type: Characters
+	
 
 In the battle against the archdemon in Denerim, Alistair gave his life to save his friends and end the Blight.
-	Codex type: Characters
+	
 
 Alistair is fascinated by magic, even as his life is defined by fighting its darker manifestations. He has a fondness for strange runestones and figural studies of arcane creatures.
-	Codex type: Characters
+	
 
 ******************
 ------Duncan------
@@ -410,10 +410,10 @@ On the Grey Warden, Duncan.
 Like many others, Duncan gave up his family name when he joined the ranks of the Wardens: a symbolic gesture of cutting ties. He might say this was a convenience in his case, however. His mother was from the Anderfels, his father from Tevinter, his childhood was spent in the Free Marches and Orlais. His people were everywhere and his homeland was nowhere.
 
 He was given the almost impossible task of leading the Wardens in Ferelden--a kingdom that had thrown the order out two hundred years earlier.  Facing local suspicion and hostility, he set about finding recruits.
-	Codex type: Characters
+	
 
 He was killed in battle against overwhelming numbers of darkspawn at Ostagar, alongside King Cailan.
-	Codex type: Characters
+	
 
 *********************************************************
 -------------------King Cailan Theirin-------------------
@@ -426,10 +426,10 @@ On King Cailan of Ferelden.
 "I'd hoped for a war like in the tales! A king riding with the fabled Grey Wardens against a tainted god!"
 
 Son of the legendary King Maric Theirin, Cailan was the first Fereldan king born into a land free from foreign rule in two generations. Since his father's death, he's held the throne alongside his queen, Anora.
-	Codex type: Characters
+	
 
 He fell in battle alongside Duncan at Ostagar.
-	Codex type: Characters
+	
 
 *********************************
 -----------Queen Anora-----------
@@ -442,64 +442,64 @@ On Queen Anora of Ferelden.
 "We have been given the gift of freedom by our forbearers. Let us not squander it."
 
 The only child of the war hero Loghain Mac Tir, Anora has never been one to stay quietly in the background. It is common knowledge that in the five years Anora and Cailan held the throne together, she was the one wielding the power. She is held in much higher esteem than her husband by the people of Ferelden, nobility and commoners alike, and commands the respect even of foreign nations, having once inspired Empress Celene of Orlais to declare, "Anora of Ferelden is a solitary rose among brambles."
-	Codex type: Characters
+	
 
 She sent her maid, Erlina, to Arl Eamon's estate to ask for <FirstName/>'s help in escaping from Arl Howe, but as they fled Howe's estate, Anora in disguise, they were ambushed by Ser Cauthrien, there to arrest Howe's murderer.
-	Codex type: Characters
+	
 
 When <FirstName/> tried to protest the charge on the grounds of defending Anora, the queen declared that she was being kidnapped and called to Cauthrien for help.
-	Codex type: Characters
+	
 
 <FirstName/> surrendered to permit Anora's escape.
-	Codex type: Characters
+	
 
 A fight ensued, and Anora fled in the confusion.
-	Codex type: Characters
+	
 
 She made her way to Eamon's Denerim estate and there offered her aid in defeating her father at the Landsmeet.
-	Codex type: Characters
+	
 
 With her help, Loghain's support was eroded.
-	Codex type: Characters
+	
 
 However, when the hour came, she publicly supported her father, decrying the Wardens as slanderers and regicides.
-	Codex type: Characters
+	
 
 Her efforts, however, were not enough to erode Loghain's support.
-	Codex type: Characters
+	
 
 The banns fell in line behind Eamon and <FirstName/>. Loghain, however, would not accept defeat easily. He filled the room with troops and attempted a coup. Fighting erupted, breaking the long tradition of the Landsmeet, which was ultimately settled with a duel.
-	Codex type: Characters
+	
 
 The banns fell in line behind Loghain, and he called for the Wardens' execution. Fighting erupted, breaking the long tradition of the Landsmeet, which was ultimately settled with a duel.
-	Codex type: Characters
+	
 
 In the end, Anora was deposed, and Alistair was given the throne.
-	Codex type: Characters
+	
 
 In the end, Anora was granted the throne and Alistair was taken away to be executed.
-	Codex type: Characters
+	
 
 In the end, Anora kept her throne, with <FirstName/> now her king-consort, and Alistair was taken away to be executed.
-	Codex type: Characters
+	
 
 In the end, Anora kept her throne, with <FirstName/> now her king-consort, and Alistair walked out of the Landsmeet Chamber never to be seen again.
-	Codex type: Characters
+	
 
 In the end, Anora kept her throne, with <FirstName/> now her king-consort.
-	Codex type: Characters
+	
 
 In the end, Anora was granted the throne, freeing Alistair from the burden of a responsibility he never wanted anyway.
-	Codex type: Characters
+	
 
 In the end, Anora was granted the throne, and Alistair walked out of the Landsmeet Chamber never to be seen again.
-	Codex type: Characters
+	
 
 In the end, Anora and Alistair agreed to marry and rule jointly, though Alistair postponed taking the throne until the Blight was ended.
-	Codex type: Characters
+	
 
 In the end, Anora and Alistair agreed to marry and rule jointly, with Alistair giving up his place among the Grey Wardens to take the throne.
-	Codex type: Characters
+	
 
 ***************************************************
 -----------------Arl Eamon Guerrin-----------------
@@ -512,19 +512,19 @@ On Arl Eamon Guerrin of Redcliffe.
 "Nobility does not exist without obligation. We owe all we have, even our lives, to our land and our people."
 
 As the maternal uncle of King Cailan, Arl Eamon is one of the king's most trusted advisors. Redcliffe, while not a large or especially wealthy part of Ferelden, is a critical strategic location: The fortress guards the western pass that leads to Orlais, as well as the major trade route with Orzammar. A well-respected man, though not the most charismatic, King Cailan once said of him, "My Uncle Eamon is a man everyone thinks well of--when they remember to think of him at all."
-	Codex type: Characters
+	
 
 He fell ill with a mysterious condition that even magic could not treat.
-	Codex type: Characters
+	
 
 It was no common ailment. Eamon was poisoned by a blood mage, Jowan, who claimed to be working for Teyrn Loghain. The arl's life was saved only by the most extraordinary measures: finding the Urn of Sacred Ashes, the remains of Andraste herself.
-	Codex type: Characters
+	
 
 His health restored, Eamon called a Landsmeet with the goal of wresting power from Loghain and placing Alistair on the throne.
-	Codex type: Characters
+	
 
 With the question of the succession settled, Eamon returned to Redcliffe to prepare the castle's defenses for the encroaching Blight.
-	Codex type: Characters
+	
 
 *********************
 -------Flemeth-------
@@ -545,10 +545,10 @@ The lovers returned, but it was a trap. Conobar killed Osen, and imprisoned Flem
 For a hundred years, Flemeth plotted, stealing men from the Chasind to sire monstrous daughters: Horrific things that could kill a man with fear. These Korcari witches led an army of Chasind from the Wilds to strike at the Alamarri tribes. They were defeated by the hero Cormac, and all the witches burned, so they say, but even now the Wilders whisper that Flemeth lives on in the marsh, and she and her daughters steal those men who come too near.
 
 Morrigan's mother saved the last Grey Wardens from death at the top of the Tower of Ishal, but just who, or what, Flemeth truly is, is a mystery.
-	Codex type: Characters
+	
 
 She was slain at Morrigan's behest. At least apparently...
-	Codex type: Characters
+	
 
 ************************
 --------Morrigan--------
@@ -561,25 +561,25 @@ On Morrigan.
 "Witch of the Wilds? Such idle fancies, those legends. Have you no minds of your own?"
 
 Of herself, Morrigan says little. She does not deny being a witch of the Wilds, but beyond that, everything about her is in question.
-	Codex type: Characters
+	
 
 Her mother claims to be Flemeth. If that's true, the Morrigan might well be a very powerful witch, for the tales of the daughters of Flemeth tell of twisted, monstrous women who can kill a man with fear. She was made to accompany the surviving Grey Wardens: The payment, Flemeth said, for saving their lives at the Tower of Ishal.
-	Codex type: Characters
+	
 
 Whatever Flemeth's purpose was, however, will probably never be known.
-	Codex type: Characters
+	
 
 On the eve of battle with the archdemon, she made an offer to the Wardens: Sire a child with her, and she could use it to capture the archdemon's soul at the moment of death, saving the Warden who struck the killing blow.
-	Codex type: Characters
+	
 
 When this bargain was turned down, Morrigan disappeared.
-	Codex type: Characters
+	
 
 After the battle, Morrigan disappeared.
-	Codex type: Characters
+	
 
 Morrigan's critical eye is not reserved solely for others. Knowing or not, she has a simple fondness for jewelry and is very particular about her appearance.
-	Codex type: Characters
+	
 
 *********************************************
 ---------------Loghain Mac Tir---------------
@@ -590,46 +590,46 @@ On Teyrn Loghain Mac Tir.
 
 
 "It takes more than legends to win a battle."
-	Codex type: Characters
+	
 
 On Teyrn Loghain Mac Tir.
 
 
 "Understand this: I will brook no threat to this nation... from you or anyone."
-	Codex type: Characters
+	
 
 On Teyrn Loghain Mac Tir.
 
 
 "War is cruel. Every soul who fought alongside Maric knows this. And in it, there are no such things as innocents, only the living and the dead, and the degrees of guilt both bear."
-	Codex type: Characters
+	
 
 "I passed your test. Fate has a twisted sense of humor, it seems."
-	Codex type: Characters
+	
 
 Loghain was born a farmer during a time when his country was under foreign occupation. When he was still a boy, he joined the resistance, where his considerable tactical genius quickly became apparent. He became close friends with Prince Maric, the last true heir to the Ferelden throne, and together they led the rebels to drive out the forces of the Orlesian Empire. Maric raised his friend to the nobility, and Loghain is now more of a symbol than a man: He represents the Fereldan ideals of hard work and independence.
-	Codex type: Characters
+	
 
 During the battle at Ostagar, he fled the field, leaving King Cailan and the Grey Wardens to die.
-	Codex type: Characters
+	
 
 He then returned to Denerim and declared himself the regent to his daughter, Queen Anora, demanding that Ferelden follow him against the darkspawn--upsetting a great many of the banns.
-	Codex type: Characters
+	
 
 His actions sparked a civil war. Loghain's supporters found themselves fighting their neighbors who blamed Loghain for the death of the king, as well as those who simply wished to take advantage of the power vacuum.
-	Codex type: Characters
+	
 
 He was defeated in single combat at the Landsmeet and summarily executed.
-	Codex type: Characters
+	
 
 He was defeated in single combat at the Landsmeet, and sentenced to undertake the Joining ritual. He survived, and rejoined the fight for Ferelden as a Grey Warden.
-	Codex type: Characters
+	
 
 He struck the killing blow against the archdemon, sacrificing himself to end the Blight and save his country.
-	Codex type: Characters
+	
 
 Loghain has defined himself by the borders he seeks to maintain and expand. He is ever the tactician, and likes pouring over maps both ancient and modern.
-	Codex type: Characters
+	
 
 ***************************************
 -------------Ser Cauthrien-------------
@@ -642,13 +642,10 @@ On Ser Cauthrien.
 "Some of us know what honor and loyalty are."
 
 Cauthrien came to Loghain's service the hard way--she belonged to a poor family and was out doing work on the farm when she saw a man on horseback being attacked by several bandits. She rushed to his assistance, and found out belatedly that the man she "saved" was none other than the great hero Loghain. Though she was hardly more than a child, he took her in, offering her a position with his soldiers, and she climbed through the ranks through sheer determination. Becoming the commander of Maric's Shield, Loghain's elite soldiers, was the proudest moment of her life.
-	Codex type: Characters
 
 She was slain while trying to arrest <FirstName/> for the murder of Arl Howe.
-	Codex type: Characters
 
 She was slain while trying to stop <FirstName/> from entering the Landsmeet.
-	Codex type: Characters
 
 *********************
 -------Leliana-------
@@ -659,40 +656,30 @@ On Leliana.
 
 
 "In the cloister, away from the fuss and the flurry of the cities, I found peace. And in that stillness, I could hear the Maker."
-	Codex type: Characters
 
 On Leliana.
 
 
 "Here, with you... knowing the freedom of the road and the uncertainty of tomorrow... I feel alive again."
-	Codex type: Characters
 
 A lay sister of the Chantry who can beat the stuffing out of trained mercenaries would be notable enough, but one who also claims to have been sent to fight the darkspawn by the Maker Himself is... unusual to say the least.
-	Codex type: Characters
 
 She asked to join the Grey Wardens in their endeavors... sort of, but was turned away.
-	Codex type: Characters
 
 She joined Alistair and <FirstName/> in Lothering, insisting that she would prove useful.
-	Codex type: Characters
 
 Her persistence, however, paid off. She made them relent and allow her to join in their travels.
-	Codex type: Characters
 
 There's more to Leliana than had even been apparent at Lothering, however. She spent much of her life as a bard in Orlais: a minstrel, assassin, and spy employed by the nobles of Val Royeaux in their elaborate games of intrigue.
-	Codex type: Characters
 
 Her decision to join the Chantry was not merely the product of her disenchantment with the life of a bard; Leliana was framed by her bard-master, and fled to escape execution as a traitor.
-	Codex type: Characters
 
 When <FirstName/> corrupted and destroyed the Sacred Ashes of Andraste, Leliana drew her weapon and was killed alongside the guardian.
-	Codex type: Characters
 
 She eventually was driven away, and has not been seen since.
-	Codex type: Characters
 
 Leliana takes care to honor the Lothering cloister that took her in, and keeps symbols of Andraste's blessings close to her heart.
-	Codex type: Characters
+
 
 ******************************
 ----------<DogName/>----------
@@ -705,13 +692,10 @@ On the mabari warhound.
 "The mabari is clever enough to speak, and wise enough to know not to."
 
 --Fereldan proverb.
-	Codex type: Characters
 
 <FirstName/>'s warhound has a pedigree older than Highever, and a penchant for driving cooks to distraction.
-	Codex type: Characters
 
 <FirstName/> found this mabari in the camp at Ostagar. His master was killed in the Wilds, and <DogName/> fell ill from biting the darkspawn in battle. <DogName/> seems to have chosen <FirstName/> as his new master now, seeking <FirstName/> out after the battle at Ostagar and warning of an impending darkspawn attack.
-	Codex type: Characters
 
 ************
 ----Sten----
@@ -726,22 +710,16 @@ On Sten.
 The northern islands are remote: lush jungles that harbor cities rumored to be the most extraordinary ever built. These are the lands of the qunari--lands that no foreign eyes ever see. Only the stories of the three Exalted Marches waged against the giants have reached the south... until the arrival of Sten.
 
 The stoic giant in the cage was surely the strangest thing the people of Lothering had ever seen, until the Blight struck.
-	Codex type: Characters
 
 He remained in his cage to await death, and most likely found it.
-	Codex type: Characters
 
 He was sent with a small group of qunari soldiers to investigate the Blight and report back. Outside Lothering, they were ambushed by darkspawn.  They fought off the attack, but only Sten survived. Farmers found him dying and took him in, but when he awoke, alone and unarmed, he panicked, killing the entire family. Realizing he had sacrificed his honor, Sten waited for the villagers to come, and surrendered, expecting death.
-	Codex type: Characters
 
 His sword and his honor restored, Sten chose to continue with <FirstName/> and take the battle to the archdemon.
-	Codex type: Characters
 
 He left, intending to seek out the archdemon alone.
-	Codex type: Characters
 
 Sten has an eye for paintings, an appreciation that might seem out of character, but is actually an extension of qunari discipline. He respects an artist for careful composition, a skill that is as much about where the brushstroke stops as where it begins.
-	Codex type: Characters
 
 *********************************************************
 -------------------Bann Teagan Guerrin-------------------
@@ -754,7 +732,7 @@ On Bann Teagan Guerrin.
 "The Bannorn will not bow to you simply because you demand it!"
 
 Younger brother to Arl Eamon of Redcliffe, and uncle to King Cailan, Teagan holds the bannorn of Rainesfere, a tiny province of Redcliffe's squeezed between the Frostback Mountains and Lake Calenhad. Bann Teagan avoids the Denerim court except to go hunting with his nephew, and rarely makes himself heard at the Landsmeet, preferring to leave politics to his brother.
-	Codex type: Characters
+	
 
 ******************************************
 --------------Arlessa Isolde--------------
@@ -769,22 +747,17 @@ On Arlessa Isolde of Redcliffe.
 The arling of Redcliffe was a source of constant trouble for Emperor Reville during the occupation; it was rumored that since each new report sent the emperor into a fit of violent rage, his court had taken to poisoning messengers before they could deliver their accounts. Isolde's family was the tenth to be given the difficult task of governing Redcliffe, and since most of the previous arls had either been murdered by their banns or beheaded by the emperor, they did not approach the job with a great deal of enthusiasm.
 
 Isolde met Eamon, not realizing he was the rightful heir to her father's domain, and quickly became smitten with him for being part of the resistance--never mind that it was her family he was resisting. Perhaps a bit too romantic for her own good, she insisted upon staying behind with Eamon when the rest of her family was driven out.
-	Codex type: Characters
 
 When her only son began to show signs of possessing magic, Isolde tried to cover it up, knowing that he would be taken from her by the Circle if found out. She hired an apostate mage to tutor him in secret, little knowing that her tutor was being paid to poison her husband. Eamon fell ill, and Connor, desperate, tried to use magic to save his father--magic that attracted the attention of a demon.
-	Codex type: Characters
 
 She gave her life to free Connor from demonic influence.
-	Codex type: Characters
 
 Unable to free him, Isolde took Connor's life to stop the demon.
-	Codex type: Characters
 
 The Circle of Magi were finally called in, almost too late, and Connor was freed from the demon's power, though the damage to Redcliffe was severe.
-	Codex type: Characters
 
 Unable to stop the demon, Connor was slain by <FirstName/>.
-	Codex type: Characters
+	
 
 ******************************************
 --------------Connor Guerrin--------------
@@ -799,16 +772,12 @@ On Arl Eamon's son, Connor
 While most of the banns and arls of Ferelden cart their children with them to the Landsmeet in the interest of eventually marrying them off, Connor has spent his entire life at Redcliffe. And it's hardly surprising: the child possessed the gift of magic. By law, he should have been taken to the Circle of Magi at the first sign, abdicating his claim to Redcliffe. Instead, the boy was kept out of public view and his magic hushed up... with disastrous results.
 
 All mages are beacons that attract the attention of Fade spirits. Because of this, they are trained and tested by the Circle to ensure that they can withstand attacks from malevolent Fade creatures that seek entry into the waking world. Untrained Connor drew the attention of a powerful demon that tore the Veil asunder.
-	Codex type: Characters
 
 To stop the demon's rampage, Connor was slain.
-	Codex type: Characters
 
 He was freed from the demon's power at a terrible price: the cost of his mother's life. Connor himself will be sent to the Circle where he will no longer endanger innocent people.
-	Codex type: Characters
 
 With aid from the Circle, he was freed from the demon's power. Connor will be sent to the Circle Tower where he will no longer pose a danger to the innocent.
-	Codex type: Characters
 
 ******************
 ------Oghren------
@@ -825,22 +794,16 @@ Oghren of House Kondrat was once a promising member of the Warrior Caste. His ho
 His wife, Branka, was named a Paragon for her achievements. All of House Kondrat joined her newly-made noble House Branka... and vanished with her into the Deep Roads.
 
 As time passed and it became more and more clear that Oghren had been abandoned, he became the butt of jokes throughout Orzammar. He took to drink, which didn't especially help. Drunk and humiliated, he challenged another warrior to a Proving over an insult and killed him. The match was meant to be fought to first-blood. As a punishment, he was stripped of his house and barred from bearing arms: The only fate worse for a warrior than exile.
-	Codex type: Characters
 
 The Grey Warden <FirstName/> mounted a search for Branka and found her--and the Anvil of the Void for which she led her house to their deaths.
-	Codex type: Characters
 
 Afterwards, having apparently nothing better to do, Oghren offered his services to the Grey Warden <FirstName/> and left Orzammar to help end the Blight.
-	Codex type: Characters
 
 He left some time later for parts unknown.
-	Codex type: Characters
 
 He was killed in a dispute with <FirstName/>.
-	Codex type: Characters
 
 Oghren enjoys challenging his palate with alcohols of ever increasing rarity, potency, and outright lethality. This has afforded him no benefit whatsoever.
-	Codex type: Characters
 
 ******************************************
 --------------Zevran Arainai--------------
@@ -851,44 +814,34 @@ On Zevran Arainai.
 
 
 "The Crows send their regards."
-	Codex type: Characters
+	
 
 On Zevran Arainai.
 
 
 "I intend to see this through to the end with you. After all... someone must take responsibility for preventing your untimely death."
-	Codex type: Characters
 
 Between the Tevinter Imperium, Rivain, and the Free Marches sits the nation of Antiva. Although it possesses few resources of its own, Antiva's location makes it a center for trade in the north, and the capital, Antiva City, is the wealthiest in the world. Antiva has virtually no army--the monarchy is too weak to support one. Most Antivans would be hard-pressed even to name the current king--as the true power lies in the hands of a dozen merchant princes, each with a personal army, and each locked in a constant struggle for power against all the others.
 
 Anyone would think, then, that Antiva would be a ripe target for invasion by one of her neighbors, but even the qunari leave Antiva alone for one very good reason: the House of Crows.
 
 The most efficient, most feared, and most expensive guild of assassins in the world calls Antiva their home, and their reputation alone defends the borders.
-	Codex type: Characters
 
 Zevran was the Crow contracted by Loghain to assassinate Alistair and <FirstName/>. One failed attempt later, however, he found himself at the mercy of his would-be victims.
-	Codex type: Characters
 
 He was killed, which likely has ruined the Crows' otherwise perfect record of successes.
-	Codex type: Characters
 
 They showed somewhat dubious mercy by letting him go, and what's become of him is anyone's guess.
-	Codex type: Characters
 
 They showed him unexpected mercy, and in return he swore to aid the Wardens on their quest to end the Blight.
-	Codex type: Characters
 
 They parted ways, however, and Zevran has not been seen since.
-	Codex type: Characters
 
 Things don't always work out as expected, however, and Zevran was killed in a disagreement with <FirstName/>.
-	Codex type: Characters
 
 The word of a Crow, however, is little more than noise. Crows ambushed <FirstName/>, and Zevran joined them. He was killed alongside his Antivan brothers.
-	Codex type: Characters
 
-Zevran shows an affinity for the finer things in life -- hardly surprising for an Antivan Crow--but his appreciation can be more poetic than he lets on. A simple bar of refined silver or gold, uncomplicated by a craftsman’s hammer, is elegantly valuable.
-	Codex type: Characters
+Zevran shows an affinity for the finer things in life -- hardly surprising for an Antivan Crow--but his appreciation can be more poetic than he lets on. A simple bar of refined silver or gold, uncomplicated by a craftsmanï¿½s hammer, is elegantly valuable.
 
 ***************
 -----Wynne-----
@@ -899,35 +852,29 @@ On Wynne.
 
 
 "I will not lie motionless in a bed, with coverlets up to my chin, waiting for death to claim me."
-	Codex type: Characters
+	
 
 On Wynne.
 
 
 "It's perfectly all right to think about the many indignities you plan to inflict on your enemies, but to talk about it... well, that would be unladylike."
-	Codex type: Characters
 
 Wynne's talent became apparent early on, particularly her skill at healing magic. She was well-liked by all her mentors, and was recognized as an exceptionally gifted student. Even the templars who watched her could not deny that she represented the best the Circle had to offer. She was an intelligent young woman who possessed a quiet confidence and maturity beyond her years.
 
 She spent many years mentoring apprentices within the Circle, and her peers thought so highly of her that she was asked to be First Enchanter Irving's successor, but she refused, saying that she had no desire to work in the upper echelons. When word reached the tower of King Cailan's call to arms, Wynne volunteered to go to Ostagar.
-	Codex type: Characters
 
 She escaped the battle with her life, and stayed to search for survivors and tend the wounded. When she returned home, she found that Uldred had gone on ahead of her, spreading the lie that the Wardens had betrayed Cailan and urging the Circle to support Loghain.
 
 Wynne immediately spoke with Irving and told him the truth. Irving then confronted Uldred about his falsehoods--prompting Uldred to use terrible measures to take over the tower.
-	Codex type: Characters
 
 While trying to save what was left of the Circle, Wynne was cut down by <FirstName/>.
-	Codex type: Characters
 
 After dealing with Uldred and his abominations, Wynne joined <FirstName/> in the quest to end the Blight.
-	Codex type: Characters
 
 She was killed fighting alongside the guardian when Andraste's Ashes were corrupted and destroyed.
-	Codex type: Characters
 
 For Wynne, the printed word is a window to true understanding. A scholar by heart, she feels that what a people commit to the page is sacred by definition.
-	Codex type: Characters
+	
 
 *********************************************
 ---------------Arl Rendon Howe---------------
@@ -938,26 +885,21 @@ On Arl Rendon Howe of Amaranthine.
 
 
 "It will be good to ride into battle once more, won't it, old friend?"
-	Codex type: Characters
 
 On Arl Rendon Howe of Amaranthine.
 
 
 "It appears it will be civil war after all, despite the darkspawn. Pity."
-	Codex type: Characters
 
 The arling of Amaranthine winds along the sinuous northeastern coast of Ferelden. The Waking Sea is known for its temper, and the storms that sweep in from the warmer northern waters are sudden and brutal. These are the lands of Rendon Howe.
 
 He was born during the occupation, and like many of the nobles at the time, joined Prince Maric's rebels. He fought alongside young Bryce Cousland, future teyrn of Highever, and Leonas Bryland, future arl of South Reach, at the bloody battle of White River. It was the most catastrophic defeat of the entire occupation, from which only fifty rebel soldiers escaped alive.
 
 Although he was decorated for valor by King Maric, Howe's abrasive manners have earned him almost universal dislike among his peers.
-	Codex type: Characters
 
 When Bryce sent his men to support the king at Ostagar, Howe took it as an opportunity to attack Highever, slaughtering the people there and claiming the lands and title as his own. Of all the inhabitants of Castle Cousland, only <FirstName/> survived.
-	Codex type: Characters
 
 Howe died at the hands of <FirstName/> in Denerim.
-	Codex type: Characters
 
 *********************************************************
 -------------------King Endrin Aeducan-------------------
@@ -972,7 +914,7 @@ On King Endrin Aeducan of Orzammar.
 Endrin of House Aeducan traces his ancestry back to the Paragon Aeducan, the greatest warrior of Orzammar's history, who beat back the darkspawn hordes in the First Blight. The second son of King Ansgar Aeducan, he became heir after his elder brother died in a Proving.
 
 The most respected king in four generations, he restored contact with Kal Sharok, the only other remaining city of the once-vast Dwarven Empire, which had been lost during the first Blight.
-	Codex type: Characters
+	
 
 ******************************************
 --------------Bhelen Aeducan--------------
@@ -983,31 +925,23 @@ On Prince Bhelen Aeducan.
 
 
 "Time is something you may not have much left of."
-	Codex type: Characters
 
 On Prince Bhelen Aeducan.
 
 
 "This is a time for action, not cultured debate."
-	Codex type: Characters
 
 Third of King Endrin's children, Bhelen has always been considered the last and least of his family. Trian was the undisputed heir apparent from the moment of his birth, and <FirstName/> was not only the most accomplished, but also their father's clear favorite. Bhelen's most notable trait was his ability to stay out of trouble.
-	Codex type: Characters
 
 Third of King Endrin's children, Bhelen has always been considered the last and least of his family. Not the heir, nor the favorite, and not as accomplished as either sibling, Bhelen's most notable trait was his ability to stay out of trouble.
-	Codex type: Characters
 
 He tricked <FirstName/> into slaying their brother Trian, eliminating both his rivals for the throne in one stroke.
-	Codex type: Characters
 
 He murdered Trian and framed <FirstName/>, eliminating both his rivals in one stroke.
-	Codex type: Characters
 
 His efforts paid off: He was named king of Orzammar by the Assembly.
-	Codex type: Characters
 
 His efforts were for nothing, though. The Assembly named Pyral Harrowmont king of Orzammar, and the coup he tried to stage in revenge was cut down almost before it began.
-	Codex type: Characters
 
 ***************************************************************
 ---------------------Lord Pyral Harrowmont---------------------
@@ -1020,13 +954,10 @@ On Lord Pyral Harrowmont.
 "No one is born with rights to the throne. The sitting king may recommend a successor, but the Assembly ultimately decides who will rule."
 
 House Harrowmont is one of the oldest noble houses, as old as Orzammar itself. Endrin's most trusted advisor, Harrowmont is well-known for being an able administrator, and the author of many compromises in the ever-warring Assembly.
-	Codex type: Characters
 
 His promise to King Endrin to keep Bhelen off the throne was upheld by the intervention of one Paragon and the Grey Warden <FirstName/>.  Harrowmont was named king by the Assembly, ending the internal strife in Orzammar.
-	Codex type: Characters
 
 His opposition of Prince Bhelen's bid for the throne ended badly. The Assembly named the prince king of Orzammar, and Bhelen's first act was to call for Harrowmont's execution.
-	Codex type: Characters
 
 ******************************************************************************
 --------------------------Brother Ferdinand Genitivi--------------------------
@@ -1041,22 +972,16 @@ On Brother Ferdinand Genitivi.
 --Excerpt from In Pursuit of Knowledge: The Travels of a Chantry Scholar by Brother Genitivi
 
 Brother Genitivi is one of the Chantry's most well-known scholars, primarily on the basis of the stories he has published (which many of his contemporaries dismiss as fanciful) of his travels across the length and breadth of Thedas.
-	Codex type: Characters
 
 His travels, and rather too-curious nature, led him to a study of folklore, which gave him the notion that he could track down that most-debated of all artifacts: the Urn of Sacred Ashes. He announced that he had found what appeared to be the trail of the Urn, left in the legends of the regions through which it had passed from Minrathous on its way into hiding.
-	Codex type: Characters
 
 He never returned from his venture into the mountains, and no one knows if he found the Ashes or not.
-	Codex type: Characters
 
 And he appears to have been right. The final resting place of Andraste lay at the summit of a remote mountain.
-	Codex type: Characters
 
 He returned to Denerim with wild tales about dragons and heretics, which nobody believed. It will no doubt make for another interesting travel book, however.
-	Codex type: Characters
 
 He returned to Denerim a little worse for wear, and was granted funds and manpower to mount an expedition to study the temple in which the Urn is kept.
-	Codex type: Characters
 
 ******************************************************************
 ----------------------First Enchanter Irving----------------------
@@ -1067,24 +992,19 @@ On First Enchanter Irving.
 
 
 "If you want to survive, you must learn the rules and realize that sometimes, sacrifices are necessary."
-	Codex type: Characters
 
 On First Enchanter Irving.
 
 
 "The Circle will go on, and we will learn from this tragedy, and be strengthened by it."
-	Codex type: Characters
 
 There is no higher office in a Circle Tower than that of first enchanter. The one who holds this title must not only be an able administrator, but also a mentor, leader, and surrogate parent to all the mages of the tower.
 
 Irving has proven himself to be all these things with an added dose of cunning. Most apprentices know that little goes on in the tower that Irving does not know. He can soothe templars angered by some childish magical prank at the same time that he lauds the pranksters, and everyone walks away satisfied.
-	Codex type: Characters
 
 Although much of the Circle was destroyed by Uldred's abominations, Irving survived and plans to rebuild what he can.
-	Codex type: Characters
 
 He died when the tower became overrun by demons. The fate of Ferelden's Circle is now in question.
-	Codex type: Characters
 
 ***************************************************************************
 -------------------------Knight-Commander Greagoir-------------------------
@@ -1095,22 +1015,17 @@ On Knight-Commander Greagoir.
 
 
 "Your magic is a gift, but it's also a curse. The Circle of Magi has trained you, and we templars of the Chantry stand vigil to ensure that training is adequate."
-	Codex type: Characters
 
 On Knight-Commander Greagoir.
 
 
 "It is the innocent folk of Ferelden who matter. I would lay down my life, and the life of any mage, to protect them."
-	Codex type: Characters
 
 Grim and taciturn, Greagoir has been knight-commander of the templar forces stationed at the Circle Tower for so many years that hardly anyone except the first enchanter recalls that he is not simply part of the tower itself.
-	Codex type: Characters
 
 With the destruction of the Circle, it's hard to imagine where Greagoir will go next.
-	Codex type: Characters
 
 He was killed following Uldred's uprising.
-	Codex type: Characters
 
 *********************************************
 ---------------Keeper Zathrian---------------
@@ -1121,31 +1036,29 @@ On Keeper Zathrian.
 
 
 "Even with all our magic and skill, we only delay the inevitable."
-	Codex type: Characters
 
 In Arlathvhen, it is common for all the hahren to hold a private council while their respective clans are still settling in. These meetings inevitably last well into the next day and end with furious shouting, such that many say that the true reason the clans all go their separate ways is that no two hahren can stand each other.
 
 Zathrian is nothing at all like Keeper Marethari, but this is to be expected. He is older, more severe, and his clan is facing a much more terrible enemy than the usual shemlen that plague other clans.
-	Codex type: Characters
 
 It is said the elves lived in Ferelden long before any others set foot there, and though most of their knowledge has been lost, it falls to the keeper of each clan to preserve what they have.
 
 Zathrian is an old, severe elf with little love for outsiders, but his clan is facing a more trying enemy than most.
-	Codex type: Characters
+	
 
 Long ago, in retribution for an attack against his clan, he unleashed a terrible curse: He summoned a spirit into this world, and set it upon the humans who had wronged him. The spirit did not simply slaughter Zathrian's enemies; it transformed them into monstrous beasts.
 
 In time, however, the werewolves he had created regained their minds, and they sought out the one responsible for their suffering, turning the curse upon Zathrian's own people.
-	Codex type: Characters
+	
 
 He was killed along with the rest of his clan.
-	Codex type: Characters
+	
 
 <FirstName/> slew the werewolves, including Witherfang, ending the conflict.
-	Codex type: Characters
+	
 
 At the urging of the Lady of the Forest, <FirstName/> persuaded Zathrian to give up his own life, returning the werewolves to their human forms and saving the elves who had been inflicted with the curse.
-	Codex type: Characters
+	
 
 ******************************************************
 ------------------The Tale of Iloren------------------
@@ -1844,7 +1757,7 @@ You ask what happened to Arlathan? Sadly, we do not know. Even those of us who k
 	
 The human world was changing even as the elves slept. Clans and tribes gave way to a powerful empire called Tevinter, which--and for what reason we do not know--moved to conquer Elvhenan. When they breached the great city of Arlathan, our people, fearful of disease and loss of immortality, chose to flee rather than fight. With magic, demons, and even dragons at their behest, the Tevinter Imperium marched easily through Arlathan, destroying homes and galleries and amphitheaters that had stood for ages. Our people were corralled as slaves, and human contact quickened their veins until every captured elf turned mortal. The elves called to their ancient gods, but there was no answer.
 	
-As to why the gods didn't answer, our people left only a legend. They say that Fen'Harel, the Dread Wolf and Lord of Tricksters, approached the ancient gods of good and evil and proposed a truce. The gods of good would remove themselves to heaven, and the lords of evil would exile themselves to the abyss, neither group ever again to enter the other's lands. But the gods did not know that Fen'Harel had planned to betray them, and by the time they realized the Dread Wolf’s treachery, they were sealed in their respective realms, never again to interact with the mortal world. It is a fable, to be sure, but those elves who travel the Beyond claim that Fen'Harel still roams the world of dreams, keeping watch over the gods lest they escape from their prisons.
+As to why the gods didn't answer, our people left only a legend. They say that Fen'Harel, the Dread Wolf and Lord of Tricksters, approached the ancient gods of good and evil and proposed a truce. The gods of good would remove themselves to heaven, and the lords of evil would exile themselves to the abyss, neither group ever again to enter the other's lands. But the gods did not know that Fen'Harel had planned to betray them, and by the time they realized the Dread Wolfï¿½s treachery, they were sealed in their respective realms, never again to interact with the mortal world. It is a fable, to be sure, but those elves who travel the Beyond claim that Fen'Harel still roams the world of dreams, keeping watch over the gods lest they escape from their prisons.
 
 Whatever the case, Arlathan had fallen to the very humans our people had once considered mere pests. It is said that the Tevinter magisters used their great destructive power to force the very ground to swallow Arlathan whole, destroying eons of collected knowledge, culture, and art. The whole of elven lore left only to memory.
 
@@ -2424,13 +2337,13 @@ On Valendrian.
 Every alienage has a hahren, an elder. It falls to the hahren to arrange marriages for those without family, to negotiate with the guards when there's trouble, and to act as a sort of mayor and surrogate uncle to the people of the alienage.
 
 The title, like so many things, is a holdover from the time of Arlathan, for hahrens are not necessarily the oldest person in their community, or even all that old. Tradition gives the role to the oldest soul, the wisest, cleverest, and the most level-headed. Valendrian has been hahren of the Denerim Alienage since he was in his thirties.
-	Codex type: Characters
+	
 
 He was taken across the sea by Tevinter slavers. His whereabouts are now unknown.
-	Codex type: Characters
+	
 
 He was nearly shipped to Tevinter by slavers, but was returned to the Alienage by <FirstName/>.
-	Codex type: Characters
+	
 
 *********************************************
 ---------------Trian's Journal---------------
@@ -2477,7 +2390,7 @@ The keeper says that one day the Dalish will find a home that we can call our ow
 On Dalish landships.
 
 
-The Dalish, who band together in small groups of blood relatives, travel in ornately carved wagons known as aravel, drawn by large white stags called halla. The aravel are a unique sight, beautiful in their swooping curvature, and adorned with broad hoods and bright silken cloths that flap in the wind, often displaying the noble banners that once flew over that family’s house. Most humans refer to the aravel as "landships," for in a strong wind it can often appear as if the elves travel in long boats with sails high overhead to announce their arrival (or warn others away). The halla are unique to the elves, and any but elven handlers consider them ornery and almost impossible to train. To the Dalish, they are noble beasts, superior in breeding to the horse. Certainly most humans would agree that the halla are as beautiful as the elves themselves; the fact that many imperial nobles maintain a bounty on halla horns that find their way into Tevinter is an affront the Dalish consider unforgivable.
+The Dalish, who band together in small groups of blood relatives, travel in ornately carved wagons known as aravel, drawn by large white stags called halla. The aravel are a unique sight, beautiful in their swooping curvature, and adorned with broad hoods and bright silken cloths that flap in the wind, often displaying the noble banners that once flew over that familyï¿½s house. Most humans refer to the aravel as "landships," for in a strong wind it can often appear as if the elves travel in long boats with sails high overhead to announce their arrival (or warn others away). The halla are unique to the elves, and any but elven handlers consider them ornery and almost impossible to train. To the Dalish, they are noble beasts, superior in breeding to the horse. Certainly most humans would agree that the halla are as beautiful as the elves themselves; the fact that many imperial nobles maintain a bounty on halla horns that find their way into Tevinter is an affront the Dalish consider unforgivable.
 
 Few among us can claim to have seen the Dalish landships up close. Any human who sees them on the horizon does well to head the other way. Few Dalish clans take kindly to humans intruding on their camps, and more than one tale tells of trouble-making humans who found themselves mercilessly filled with Dalish arrows.
 
@@ -2514,7 +2427,7 @@ The humblest slaves of the Imperium became her vanguard, and when victory came, 
 
 A great exodus of elves undertook the journey to their new home, crossing ocean, desert, and mountain. Their city, the first elven city since the fabled Arlathan, was called Halamshiral. A new era had begun for the elves.
 
-But the old era wasn’t through with them. In their forest city, the elves turned again to worship their silent, ancient gods. They became increasingly isolationist, posting Emerald Knights who guarded their borders with jealousy, rebuking all efforts at trade or civilized discourse. Dark rumors spread in the lands that bordered the Dales, whispers of humans captured and sacrificed to elven gods.
+But the old era wasnï¿½t through with them. In their forest city, the elves turned again to worship their silent, ancient gods. They became increasingly isolationist, posting Emerald Knights who guarded their borders with jealousy, rebuking all efforts at trade or civilized discourse. Dark rumors spread in the lands that bordered the Dales, whispers of humans captured and sacrificed to elven gods.
 
 And then came an attack by the elves on the defenseless village of Red Crossing. The Chantry replied with the Exalted March of the Dales, and the era of the elven kingdom came to an end. Halamshiral was utterly destroyed, the elves driven out, scattered, left to survive on goodwill alone.
 
@@ -3469,10 +3382,10 @@ On Witherfang.
 
 
 Witherfang is, according to the Keeper Zathrian, a wolf. He is no ordinary wolf, however. He is a wolf possessed by a powerful spirit and the source of the werewolf curse that plagues the Brecilian Forest. While Witherfang is hundreds of years old and very powerful in his own right, the only way to end his curse is to cut out his heart and bring it to Zathrian.
-	Codex type: Characters
+	
 
 It appears that Witherfang has two sides, as nature does. One is the wolf, savage and male... but the other is the Lady of the Forest, gentle and female. Witherfang is both beast and beauty, terrible and peace-loving. The Lady has guided the werewolves of the Brecilian Forest to come to peace with their nature... as she has.
-	Codex type: Characters
+	
 
 ***************
 -----Shade-----
@@ -3524,7 +3437,7 @@ It is said that in the midst of the Black Age, when werewolves stalked the lands
 
 For 20 years, this arl led an army of warriors and hounds deep into the forest. In his hunt for the werewolves, he slew not only every wolf he came upon, but also every member of the Chasind wilder folk. Any one of them, he said, could harbor a demon inside and thus be a werewolf in disguise. For 20 years, the forest rang with screams and the rivers ran red.
 
-The tales say that an old Chasind woman found her sons all dead at the arl’s blades. She pulled one of those very blades from one son’s heart and plunged it into her own chest, cursing the arl’s name as she did so. Where her blood touched the ground, a mist began to rise. It spread and spread until it was everywhere in the forest. The arl’s army became lost, and it is said that they died there. Others say they wander still. The ruins of his arling stand to this day, filled with the ghosts of women waiting eternally for their husbands to return.
+The tales say that an old Chasind woman found her sons all dead at the arlï¿½s blades. She pulled one of those very blades from one sonï¿½s heart and plunged it into her own chest, cursing the arlï¿½s name as she did so. Where her blood touched the ground, a mist began to rise. It spread and spread until it was everywhere in the forest. The arlï¿½s army became lost, and it is said that they died there. Others say they wander still. The ruins of his arling stand to this day, filled with the ghosts of women waiting eternally for their husbands to return.
 
 The forest of the legend is, of course, the Korcari Wilds. There are as many legends about the great southern forest as there are shadows, or so the saying goes. The Chasind wilder folk have made their home there since mankind first came to these lands, and the wildlands spread as far into the south as anyone has ventured. Beyond the mists are vast tracts of snow, white-capped mountains, and entire fields of ice. It is a land too cold for mankind to survive, yet the Chasind eke out an existence even there, and they tell of horrors beyond the Wilds that the lowland folk could not begin to comprehend.
 
@@ -3797,7 +3710,7 @@ One dragon cult might be explainable, especially in light of the reverence of th
 
 Other dragon cults could be explained in light of the first. Some cult members might have survived and spread the word. The worship of the Old Gods was as widespread as the Imperium itself--certainly such secrets could have made their way into many hands. But there have been reports of dragon cults even in places where the Imperium never touched, among folks who had never heard of the Old Gods or had any reason to. How does one explain them?
 
-Members of a dragon cult live in the same lair as a high dragon, nurturing and protecting its defenseless young. In exchange, the high dragon seem to permit those cultists to kill a small number of those young in order to feast on draconic blood. That blood is said to have a number of strange long-term effects, including bestowing greater strength and endurance, as well as an increased desire to kill. It may breed insanity as well. Nevarran dragon-hunters have said these cultists are incredibly powerful opponents. The changes in the cultists are a form of blood magic, surely, but how did the symbiotic relationship between the cult and the high dragon form in the first place? How did the cultists know to drink the dragon’s blood? How did the high dragon convince them to care for its young, or know that they would?
+Members of a dragon cult live in the same lair as a high dragon, nurturing and protecting its defenseless young. In exchange, the high dragon seem to permit those cultists to kill a small number of those young in order to feast on draconic blood. That blood is said to have a number of strange long-term effects, including bestowing greater strength and endurance, as well as an increased desire to kill. It may breed insanity as well. Nevarran dragon-hunters have said these cultists are incredibly powerful opponents. The changes in the cultists are a form of blood magic, surely, but how did the symbiotic relationship between the cult and the high dragon form in the first place? How did the cultists know to drink the dragonï¿½s blood? How did the high dragon convince them to care for its young, or know that they would?
 
 Is there more to draconic intelligence than we have heretofore guessed at? No member of a dragon cult has ever been taken alive, and what accounts exist from the days of the Nevarran hunters record only mad rants and impossible tales of godhood. With dragons only recently reappearing and still incredibly rare, we may never know the truth, but the question remains.
 
@@ -4039,7 +3952,7 @@ Calenhad's legend tells that Lady Shayna harbored a love for her king that went 
 
 It is said that Lady Shayna felt remorseful at her manipulation of her best friend's heart and confessed her use of forbidden magic to the court. Although her life was forfeit, Calenhad forgave Lady Shayna for what she had done and refused to have her executed. Myrddin furiously roused the other arls against Calenhad and Lady Shayna, and it was not long before Ferelden stood on the brink of civil war once again.
 
-Against Calenhad's orders, Lady Shayna went alone to Mairyn to plead for peace and plead her case, only to be found out by Myrddin and slain. Angered but also saddened, Calenhad challenged Myrddin to an honor duel, a fight neither of them wanted but both knew was necessary, and Myrddin was slain. The death of the king’s greatest ally, an important arl, was too much for the young kingdom to bear. The other arls would not back down in their claims against Calenhad. The threat of civil war rose once again. Calenhad went to his wife one last time then, although none know what he said to her, and then he simply vanished. He left with Mairyn a proclamation abdicating his throne in favor of the son his queen carried in her belly, who eventually ascended to the throne as King Weylan I, the king credited with establishing the Theirin dynasty lasting to this day. Calenhad would never reappear.
+Against Calenhad's orders, Lady Shayna went alone to Mairyn to plead for peace and plead her case, only to be found out by Myrddin and slain. Angered but also saddened, Calenhad challenged Myrddin to an honor duel, a fight neither of them wanted but both knew was necessary, and Myrddin was slain. The death of the kingï¿½s greatest ally, an important arl, was too much for the young kingdom to bear. The other arls would not back down in their claims against Calenhad. The threat of civil war rose once again. Calenhad went to his wife one last time then, although none know what he said to her, and then he simply vanished. He left with Mairyn a proclamation abdicating his throne in favor of the son his queen carried in her belly, who eventually ascended to the throne as King Weylan I, the king credited with establishing the Theirin dynasty lasting to this day. Calenhad would never reappear.
  
 The legend of Calenhad himself only grew over time, as stories and sightings multiplied, even long after the point when Calenhad could possibly still be alive. Some say he disappeared into the Korcari Wilds or went to live with the dwarves or even became a monk in a reclusive Chantry order. The Chantry named Calenhad one of the Anointed in 7:88 Storm. Calenhad's sword, Nemetos, was left with Mairyn and became a symbol of Ferelden kingship over the next century. Rumors of its magical powers grew, and when it was lost in the ambush that killed King Venedrin in 8:24 Blessed, it was seen as a great blow to the Theirin line. Several false swords have appeared since that time, but never has the true sword resurfaced.
 
@@ -4066,7 +3979,7 @@ I do not like them Mister Klug
 I do not like fried mush and nug
 
 Would you eat them on a rug?
-If you eat, you’ll get a hug!
+If you eat, youï¿½ll get a hug!
 
 I would not eat them on a rug
 From you I would not want a hug
@@ -4075,7 +3988,7 @@ Then would you drink them from a jug?
 Come on, come on, give them a chug!
 
 I would not drink them from a jug
-I’d rather eat a slimy slug
+Iï¿½d rather eat a slimy slug
 
 Would you eat them with a bug?
 Would you share them with a thug?
@@ -4090,9 +4003,9 @@ Come on, come on, now mister Klug
 Are you on some kind of drug?
 
 Eat them in this hole I dug
-Eat them, eat them, don’t just shrug
+Eat them, eat them, donï¿½t just shrug
 
-I’ve had it, had it, Mister Klug!
+Iï¿½ve had it, had it, Mister Klug!
 Down, into that hole you dug
 Down with the thug
 And the slug
@@ -4266,7 +4179,7 @@ Thus came our salvation: The Grey Wardens were born.
 Griffons Take Flight.
 
 
-Founded at Weisshaupt fortress in the Anderfels, the Grey Wardens offered humanity hope in its darkest hour. Veterans of decades of battles with the darkspawn came together, and the best amongst them pledged to do whatever was necessary to stem the tide of darkness that swept across the land. These great humans, elves, and dwarves pooled their knowledge of the enemy and formed a united front to put a stop to the archdemon’s rampage. 
+Founded at Weisshaupt fortress in the Anderfels, the Grey Wardens offered humanity hope in its darkest hour. Veterans of decades of battles with the darkspawn came together, and the best amongst them pledged to do whatever was necessary to stem the tide of darkness that swept across the land. These great humans, elves, and dwarves pooled their knowledge of the enemy and formed a united front to put a stop to the archdemonï¿½s rampage. 
 
 And stop it they did. Ballads are still sung today of the first Grey Warden charge into the waves of darkspawn at the city of Nordbotten--each Warden facing 10 or 20 darkspawn at a time. Squadrons of Grey Wardens mounted on their mighty griffons, soaring through the blackened skies and battling the terrible archdemon with spear and spell: Oh, what a sight it must have been!
  
@@ -4335,7 +4248,7 @@ Aveline entered the competition claiming to be a knight of Antiva. She refused t
 
 Kaleva was determined not to be beaten, and struck swiftly and strongly. As Aveline matched each of his blows, Kaleva grew ever more frustrated. Finally, in desperation, he tripped Aveline and threw her to the ground. The blow knocked her helm from her head, and Kaleva was shamed. He called to have the competition declared invalid, but the crowd booed and jeered. In anger, Kaleva turned and slew Aveline as she lay helpless.
 
-The son of the emperor, Prince Freyan, was also present at the tourney. He too had been beaten by Aveline, but he recognized her skill and bravery and was saddened by the injustice of her death. Upon rising to the emperor’s seat in 7:44 Storm, Freyan abolished the law that disallowed women from joining the Orlesian knighthood and posthumously knighted Aveline. Although women in the Orlesian knighthood are still a rarity today, all those who do become knights revere Ser Aveline as their patron.
+The son of the emperor, Prince Freyan, was also present at the tourney. He too had been beaten by Aveline, but he recognized her skill and bravery and was saddened by the injustice of her death. Upon rising to the emperorï¿½s seat in 7:44 Storm, Freyan abolished the law that disallowed women from joining the Orlesian knighthood and posthumously knighted Aveline. Although women in the Orlesian knighthood are still a rarity today, all those who do become knights revere Ser Aveline as their patron.
 
 --"" by Lord Francois Maigny, 8:4 Blessed.
 	Codex type: Letters and Notes
@@ -4474,7 +4387,7 @@ A discussion of the Chantry calendar.
 
 For most good folk, the details of our calendar have little purpose. It is useful only for telling them when the Summerday festival will be held, when the snows are expected to begin, and when the harvest must be complete. The naming of the years are a matter for historians and taxmen, and few if pressed could even tell you the reason that our current Age is named after dragons.
 
-It is 9:30 Dragon Age, the thirtieth year of the ninth Age since the crowning of the Chantry’s first Divine.
+It is 9:30 Dragon Age, the thirtieth year of the ninth Age since the crowning of the Chantryï¿½s first Divine.
 
 Each Age is exactly 100 years, with the next Age's name chosen in the 99th year. The scholars in Val Royeaux advise the Chantry of portents seen in that 99th year, and Chantry authorities pore over the research for months before the Divine announces the name of the imminent Age. The name is said to be an omen of what is to come, of what the people of Thedas will face for the next hundred years.
 
@@ -4482,7 +4395,7 @@ The current Age was not meant to be the Dragon Age. Throughout the last months o
 
 But as the rebellion in Ferelden reached a head and the Battle of River Dane was about to begin, a peculiar event occurred: a rampage, the rising of a dreaded high dragon. Dragons had been thought practically extinct since the days of the Nevarran dragon hunts, and they say that to see this great beast rise form the Frostbacks was both majestic and terrifying. As the rampage began and the high dragon decimated the countryside in its search for food, the elderly Divine Faustine II abruptly declared the Dragon Age.
 
-Some say the Divine was declaring support for Orlais in the battle against Ferelden, since the dragon is an element of the Dufayel family heraldry of King Meghren, the so-called Usurper King of Ferelden. Be that as it may, the high dragon’s rampage turned towards the Orlesian side of the Frostback Mountains, killing hundreds and sending thousands more fleeing to the northern coast. The Fereldan rebels won the Battle of River Dane, ultimately securing their independence. 
+Some say the Divine was declaring support for Orlais in the battle against Ferelden, since the dragon is an element of the Dufayel family heraldry of King Meghren, the so-called Usurper King of Ferelden. Be that as it may, the high dragonï¿½s rampage turned towards the Orlesian side of the Frostback Mountains, killing hundreds and sending thousands more fleeing to the northern coast. The Fereldan rebels won the Battle of River Dane, ultimately securing their independence. 
 
 Many thus think that the Dragon Age will come to represent a time of violent and dramatic change for all of Thedas. It remains to be seen.
 
@@ -4673,7 +4586,7 @@ Urthemiel, the Dragon of Beauty.
 Razikale, the Dragon of Mystery.
 Lusacan, the Dragon of Night.
 
-There were seven Old Gods, great winged dragons that were said to rule over the ancient world. The Chantry maintains that they are responsible for the original sin, that they turned humanity away from its true creator through deceit. Humanity’s faith faltered, and thus the Maker turned away from the world--but not before trapping the Old Gods in eternal prisons beneath the earth as punishment.
+There were seven Old Gods, great winged dragons that were said to rule over the ancient world. The Chantry maintains that they are responsible for the original sin, that they turned humanity away from its true creator through deceit. Humanityï¿½s faith faltered, and thus the Maker turned away from the world--but not before trapping the Old Gods in eternal prisons beneath the earth as punishment.
 
 Scholars assume that the Old Gods must indeed have been real at one point, but most agree that they were likely actual dragons--ancient high dragons of a magnitude not known today, and impressive enough to frighten ancient peoples into worshipping them. Some even claim that these dragons slumber as a form of hibernation, not as a result of the Maker's wrath.
 
