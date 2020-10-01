@@ -1,5 +1,13 @@
-# Dragon Age Compendium
+# The Dragon Age Compendium
 Refactoring the Dragon Age: Origins Toolset SQL database for use without game files, for the purpose of accessing dialogue and codex text
+
+### What's in here?
+- All dialogue for all characters
+- Notes from the writers for the voice actors, which provide additional insight into character background and motivation
+- Developer notes related to the characters, such as their ages, flaws, and background
+- All codices, including all the options for the companion codex entries 
+
+**Something missing?** [Let me know!](https://twitter.com/planesofduality)
 
 ### Codex entries/Dialogue
 
@@ -22,8 +30,7 @@ They're witches! She all but said so!
 
 ```
 
-
-In the future, I plan to do something similar for DA2 and DA:I, essentially creating a searchable corpus that spans across the games, but for now it's just Origins. 
+I am currently working on something similar for DA2 and DA:I, essentially creating a searchable corpus that spans across the games, but for now it's just Origins. Any updates will be posted here.
 
 ## How to Use
 
@@ -58,7 +65,9 @@ Run the command `jupyter notebook` from the `dragonage_compendium` folder and na
 
 ## Notes/contact info
 
-I spent *a lot* of time on this. There were a lot of unknowns when I first started and I went down a lot of wrong paths as I tried to get my bearings. In the end, two of the resources I found most helpful in bridging gaps in my knowledge were [the wiki](http://www.datoolset.net/wiki/Main_Page) and [Sapphimod's tutorials](https://sapphimods.me/tutorials/dialogue-modding-pt-1/). Neither had complete information, but they would occassionally have just what I needed when I encountered a DA:O database-specific problem. If you have the toolset already and you're interested in working with the database directly, it's actually not very difficult to use, and I have left an html notebook of what I learned [here](https://github.com/pod7/dragonage_compendium/blob/master/notebooks/origins/origins_exploration_html.html). 
+I spent *a lot* of time on this. There were a lot of unknowns when I first started and I went down a lot of wrong paths as I tried to get my bearings. In the end, two of the resources I found most helpful in bridging gaps in my knowledge were [the wiki](http://www.datoolset.net/wiki/Main_Page) and [Sapphimod's tutorials](https://sapphimods.me/tutorials/dialogue-modding-pt-1/). Neither had complete information, but they would occassionally have just what I needed when I encountered a DA:O database-specific problem. Additional shout out to Microsoft for keeping information for the 2005 SQL server around on its website *and* for noting in their tutorials where older versions of the server differed. I never thought I'd say this, but none of this have been possible without Microsoft! 
+
+If you have the toolset already and you're interested in working with the database directly, it's actually not very difficult to use, and I have left an html notebook of what I learned [here](https://github.com/pod7/dragonage_compendium/blob/master/notebooks/origins/exported_notebooks/origins_exploration_html.html). 
 
 
 Weird to use tumblr as my calling card, but it's Dragon Age, so feel free to reach out: http://planesofduality.tumblr.com/
