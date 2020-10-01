@@ -64,9 +64,9 @@ Run the command `jupyter notebook` from the `dragonage_compendium` folder and na
 ![Search](https://github.com/pod7/dragonage_compendium/blob/master/screenshots/keyword_search.PNG)
   - [Overview of the Compendium](https://github.com/pod7/dragonage_compendium/tree/master/notebooks/origins): an introduction to the compendium and it's present functionality. 
   
-  ![comp_ex1]()
+  ![comp_ex1](https://github.com/pod7/dragonage_compendium/blob/master/screenshots/compendium_ex.PNG)
   
-  ![comp_ex2]()
+  ![comp_ex2](https://github.com/pod7/dragonage_compendium/blob/master/screenshots/compendium_ex2.PNG)
 
 ## Notes/contact info
 
